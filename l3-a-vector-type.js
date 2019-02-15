@@ -29,3 +29,8 @@ console.log(new Vec(1, 2).minus(new Vec(2, 3)));
 // → Vec{x: -1, y: -1}
 console.log(new Vec(3, 4).length);
 // → 5
+
+
+// Source: https://eloquentjavascript.net/code/#6.1
+// Could not find the solution myself, looked at the answer sheet and tried to understand it. 
+// Now I understand it, just don't think there is any other way to do it better.
